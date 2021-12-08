@@ -1,1 +1,1 @@
-# Shopping cart using react-redux, mongodb
+# Shopping cart using react-redux
